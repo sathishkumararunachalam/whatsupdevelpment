@@ -1,0 +1,20 @@
+C:\Users\sathish SK>pwd
+'pwd' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\sathish SK>cd
+C:\Users\sathish SK
+
+C:\Users\sathish SK>cd Desktop
+
+C:\Users\sathish SK\Desktop>mkdir sk
+
+C:\Users\sathish SK\Desktop>cd sk
+
+C:\Users\sathish SK\Desktop\sk>touch sk.txt
+'touch' is not recognized as an internal or external command,
+operable program or batch file.
+
+C:\Users\sathish SK\Desktop\sk>mkdir sk.file
+
+C:\Users\sathish SK\Desktop\sk>
